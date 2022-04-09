@@ -12,6 +12,8 @@
       <a href= "https://github.com/NguyenHuynhKimAnh"> Link Github </a>
       <p> Đây là tài khoản TikTok của tôi.</p>
       <a href= "https://tiktok.com/@dolaa3000" > LIVE TIK TOK  </a>
+    <p> Đây là tài khoản Facebook của tôi. </p>
+    <a href= "https://www.facebook.com/nguyenhuynhkimanh.171003"> Link Facebook </a>
   </div>
   
 </body>
