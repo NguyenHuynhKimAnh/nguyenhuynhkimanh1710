@@ -1,6 +1,6 @@
 <html>
 <body>
-               <h1>Xin chào các bạn đã đến với website đầu tiên của tôi! </h1>
+               <h1>Xin chào các bạn đã đến với trang cá nhân của tôi! </h1>
                <h2>Tôi tên là Nguyễn Huỳnh Kim Ánh </h2>
                <h2> CNTT15B </h2>
                <h3>----------------------------------------------------------------------------------------</h3>
